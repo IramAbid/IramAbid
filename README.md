@@ -32,3 +32,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Reach me through my linkedIn account
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am passionate to learn and grow
+I'm Rashid, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀
+🔭 I’m currently working on this full-stack project
+
+🌱 I’m currently learning web3
+
+❓ Ask me about anything related to MERN stack and related technologies
+
+
+My Skill Set
+Frontend
+React Bootstrap CSS3 HTML5 JavaScript TypeScript C C C++ Go Java MongoDB MySQL Redis Sass Node.js Python Express.js Chart.js Figma GraphQL Firebase WordPress
+Backend
+C++ JavaScript TypeScript PHP MongoDB Node.js Linux Nginx Python Express.js Git Redux Bash
+DevOps
+AWS GCP Kubernetes Linux Git Bash
+
+Connect with me
+youtube instagram linkedin codepen devto twitter github
+
+Github Stats
+
+
+Recent Blog Posts
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
+
+
+
+
+
